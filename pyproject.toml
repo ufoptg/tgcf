@@ -24,7 +24,6 @@ tg-login = "^0.0.4"
 pytesseract = "^0.3.7"
 rich = "^12.6.0"
 verlat = "^0.1.0"
-streamlit = { git = "https://github.com/ufoptg/streamlit.git", tag = "1.15.2r", archive = "https://github.com/ufoptg/streamlit/archive/refs/tags/1.15.2r.zip" }
 PyYAML = "^6.0"
 pymongo = "^4.3.3"
 
